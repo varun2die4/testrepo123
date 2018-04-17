@@ -7,3 +7,4 @@ another test
 Hello!
 
 Change in Master
+Hi
